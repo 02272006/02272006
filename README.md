@@ -1,5 +1,5 @@
 -  Hi, I’m Musfira Waseem!
--  I’m currently learning Typescript, JavaScript & Python.  
+-  I’m currently learning Front-end Developing.
 -  How to reach me? Here's my linkedin www.linkedin.com/in/musfira-waseem-9b654b2b4
 -  Pronouns: She/Her
 -  Fact: (I'm a lowkey learner, but I'm giving it my all!)
